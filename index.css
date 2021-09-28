@@ -1,11 +1,28 @@
 .shapes {
-
+    margin: auto auto 20px auto;
+    width: 90vw;
+    height: 25vh;
+    border: 3px black solid;
+    padding: 10px;
+    
 }
 
 .beige {
-
+    margin: auto auto 20px auto;
+    width: 90vw;
+    height: 32.5vh;
+    border: 3px black dotted;
+    padding: 10px;
 }
 
 .friends {
-    
+    margin: auto;
+    width: 50vw;
+    height: 32.5vh;
+    border: 3px gray solid;
 }
+
+.main-div {
+
+}
+
